@@ -1,0 +1,31 @@
+body {
+	background-image: url('images/bg.jpg');
+}
+b {
+	color: #2F4F4F;
+	font-size: 25px;
+	text-decoration: underline;
+	font-style: italic;
+}
+#important {
+	color: #A52A2A;
+	font-size: 30px;
+}
+#name {
+	text-align: center;
+	color: #333300;
+	font-size: 50px;
+	font-style: oblique;
+	font-weight: 600;
+	font-variant: small-caps;
+	font-stretch: ultra-expanded;
+	text-shadow: 1px 1px 2px #708090, 0 0 1em #F5F5F5;
+}
+p {
+	font-size: 25px;
+	color: #2F4F4F;
+	font-stretch: extra-expanded;
+}
+li {
+	font-size: 28px;
+}
